@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Dzejoly</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="hello_regret">Regret!</string>
     <string name="action_settings">Settings</string>
+    <string name="try_stuff"> Hi! I believe a plain EditView is what we\'re looking for.
+        AutoCompleteText view blocks built in keyboard auto-completion. That\'s terrible!</string>
+    <string name="options"> Valid options will get placed here.</string>
 </resources>
